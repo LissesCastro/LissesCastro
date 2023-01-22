@@ -6,8 +6,7 @@
 ## <div align="center">I'm Ulisses, an architecture and urbanism graduate,  workingdata science for sustantaintability in civil engineering.</div>  
   
 
-- 
- Currently working on real estate market analysis based on EMBRAESP data, for Tera bootcamp in Machine Learning: https://github.com/LissesCastro/Tera-Mercado-Imobiliario-SP  
+- Currently working on real estate market analysis based on EMBRAESP data, for Tera bootcamp in Machine Learning: https://github.com/LissesCastro/Tera-Mercado-Imobiliario-SP  
   
 
 -  I’m currently improving in machine learning, especially classification algorithms like Random Forest  
@@ -17,12 +16,12 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<div align="center"><table><tr><td valign="center" width="33%">
 
 
 
 ### Frontend  
-<div align="center">  
+<div valign="top">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -33,7 +32,7 @@
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="center" width="33%">
 
 
 
@@ -44,13 +43,8 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+</td></table>
+<br/></div>  
 
 
 ## Connect with me  
