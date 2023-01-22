@@ -70,9 +70,9 @@
 <br/>  
 
 
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts  -->
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. -->   
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -81,7 +81,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
 </div>  
   
@@ -89,7 +89,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 
-<br />
+<br /> -->
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
