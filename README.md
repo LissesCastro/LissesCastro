@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Ulisses, an architecture and urbanism graduate,  workingdata science for sustantaintability in civil engineering.</div>  
+## <div align="center">I'm Ulisses, an architecture and urbanism graduate,  working with data science for sustantaintability in civil engineering.</div>  
   
 
 - Currently working on real estate market analysis based on EMBRAESP data, for Tera bootcamp in Machine Learning: https://github.com/LissesCastro/Tera-Mercado-Imobiliario-SP  
