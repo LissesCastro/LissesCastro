@@ -6,10 +6,10 @@
 ## <div align="center">I'm Ulisses, an architecture and urbanism graduate,  working with data science for sustantaintability in civil engineering.</div>  
   
 
-- Currently working on real estate market analysis based on EMBRAESP data, for Tera bootcamp in Machine Learning: https://github.com/LissesCastro/Tera-Mercado-Imobiliario-SP  
+- Currently Machine Learning algorithm for CBG experience program: [You can see it here](https://github.com/LissesCastro/BCG---Experience-Program)
   
 
--  I’m currently improving in machine learning, especially classification algorithms like Random Forest  
+- Currently working and studying on machine learning topics, mainly related to regression models in supervised learning 
   
 
 <br/>  
@@ -20,7 +20,7 @@
 
 
 
-### Frontend  
+### Data Science and Machine Learning  
 <div valign="top">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
