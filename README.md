@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/LissesCastro/LissesCastro/blob/main/header.png?raw=true" align="center" style="width: 100%" />
+<img src="https://github.com/LissesCastro/LissesCastro/blob/main/new_header.png?raw=true" align="center" style="width: 100%" />
 </div>  
   
 
