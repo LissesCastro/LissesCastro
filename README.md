@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Ulisses, an architecture and urbanism Bsc abd Economics undergraduate, working with data science for sustantaintability in civil engineering.</div>  
+## <div align="center">I'm Ulisses, i'm currently pursuing computer engineering and graduated in architecture. I've been working with data science for sustantaintability in civil engineering since 2022.</div>  
   
 
 - Currently Machine Learning algorithm for CBG experience program: [You can see it here](https://github.com/LissesCastro/BCG---Experience-Program)
